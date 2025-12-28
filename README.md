@@ -1,9 +1,6 @@
-## Hey there ✨
+## Hey there
 
-Welcome to my GitHub profile! I'm a Software Engineer passionate about building hardware and software.
-
-
-🔭 I’m currently building [CAD Alpaca](https://cadalpaca.com/) a text-to-CAD AI powered assistant to generate 3D models for hobby projects and stuff.
+I am currently curiosity-maxxing, building stuff for fun and to expand my skill-tree: from hardware to embedded software to machine learning and everything in between.
 
 ## 🏆 Projects
-Checkout my other projects on my [website](https://sarael.me/).
+Public projects are here on my github, for the updated list check my [website](https://sarael.me/).
